@@ -1,0 +1,104 @@
+export const rec_channels = [
+    {
+        "id":1,
+    "avatar":"https://robohash.org/omnisexercitationemnesciunt.png?size=50x50&set=set1",
+    "username":"rdrever0",
+    "game_name":"Toughjoyfax",
+    "rank":8023,
+},
+{
+    "id":2,
+    "avatar":"https://robohash.org/aliquamrerumqui.png?size=50x50&set=set1",
+    "username":"afarington1",
+    "game_name":"Treeflex",
+    "rank":1372,
+},
+{
+    "id":3,
+    "avatar":"https://robohash.org/quoquodenim.png?size=50x50&set=set1",
+    "username":"eyurshev2",
+    "game_name":"Zathin",
+    "rank":5617,
+},
+{
+    "id":4,
+    "avatar":"https://robohash.org/veniamodiosit.png?size=50x50&set=set1",
+    "username":"mbasso3",
+    "game_name":"Job",
+    "rank":818,
+},
+{
+    "id":5,
+    "avatar":"https://robohash.org/sitliberoexpedita.png?size=50x50&set=set1",
+    "username":"mcroote4",
+    "game_name":"Bigtax",
+    "rank":805,
+},
+{
+    "id":6,
+    "avatar":"https://robohash.org/porroestaccusamus.png?size=50x50&set=set1",
+    "username":"eandrusyak5",
+    "game_name":"Stim",
+    "rank":7214,
+},
+{
+    "id":7,
+    "avatar":"https://robohash.org/nemomodiquia.png?size=50x50&set=set1",
+    "username":"pvasilkov6",
+    "game_name":"Greenlam",
+    "rank":1461,
+},
+{
+    "id":8,
+    "avatar":"https://robohash.org/hicofficiaillo.png?size=50x50&set=set1",
+    "username":"qwarmington7",
+    "game_name":"Cardguard",
+    "rank":7698,
+},
+{
+    "id":9,
+    "avatar":"https://robohash.org/veroeaminus.png?size=50x50&set=set1",
+    "username":"dsaffell8",
+    "game_name":"Daltfresh",
+    "rank":4164,
+},
+{
+    "id":10,
+    "avatar":"https://robohash.org/beataesintipsa.png?size=50x50&set=set1",
+    "username":"sbrookshaw9",
+    "game_name":"Mat Lam Tam",
+    "rank":9021,
+}
+]; 
+
+export const top_channels = [
+    {
+        "id":1,
+    "avatar":"https://robohash.org/omnisexercitationemnesciunt.png?size=50x50&set=set1",
+    "username":"rdrever0",
+    "game_name":"Toughjoyfax",
+    "rank":8023,
+},
+{
+    "id":2,
+    "avatar":"https://robohash.org/aliquamrerumqui.png?size=50x50&set=set1",
+    "username":"afarington1",
+    "game_name":"Treeflex",
+    "rank":1372,
+},
+{
+    "id":3,
+    "avatar":"https://robohash.org/quoquodenim.png?size=50x50&set=set1",
+    "username":"eyurshev2",
+    "game_name":"Zathin",
+    "rank":5617,
+},
+{
+    "id":4,
+    "avatar":"https://robohash.org/veniamodiosit.png?size=50x50&set=set1",
+    "username":"mbasso3",
+    "game_name":"Job",
+    "rank":818,
+},
+
+];
